@@ -48,12 +48,6 @@ class ManojKumarPradhan:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devdreamerx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e)](https://www.linkedin.com/in/devdreamerx)
-[![GitHub](https://img.shields.io/badge/GitHub-manojkp08-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e)](https://github.com/manojkp08)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](mailto:manojkprdev@gmail.com)
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=manojkp08&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -523,8 +517,6 @@ mindmap
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-**Made with ❤️, Python, and AI**
-
-*Currently open to Full-Time SDE/AI Engineer roles | Available from June 2026*
+**Made with ❤️ by Manoj**
 
 </div>
