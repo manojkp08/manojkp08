@@ -1,20 +1,16 @@
-div align="center">
-
 # 🚀 Manoj Kumar Pradhan | AI Engineer & Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Building+Intelligent+Systems;RAG+%26+LLM+Integration+Specialist;Cloud+%26+Backend+Automation+Expert;Turning+AI+Research+into+Production+%F0%9F%A4%96;MAANG-Ready+%7C+Top+130+Amazon+HackOn+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Cloud+%26+Backend+Automation;Turning+AI+Research+into+Production+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
-
-### 🎯 **AI-Driven Solutions | Cloud Architecture | Scalable Systems**
 
 ```python
 class ManojKumarPradhan:
     def __init__(self):
         self.location = "🇮🇳 Bhopal, India"
-        self.education = "VIT Bhopal | CSE | CGPA: 8.33"
-        self.role = "AI Engineer & Backend Developer"
-        self.mission = "Building AI-powered tools that solve real business problems"
+        self.education = "Vellore Institute of Technology | CSE | CGPA: 8.33"
+        self.role = "Bug Slayer & Chai Lover ☕"
+        self.mission = "Building intelligent systems that bridge AI research and real-world impact"
         
         self.expertise = {
             "ai_ml": [
@@ -22,37 +18,36 @@ class ManojKumarPradhan:
                 "LangChain", "Transformers", "LLM Fine-tuning"
             ],
             "cloud_backend": [
-                "AWS (SageMaker, EC2, Lambda, CloudFormation)",
-                "Azure (App Services, ML Studio)",
-                "Docker", "CI/CD Pipelines", "FastAPI", "Django", "Flask"
+                "AWS", "Azure", "Docker", "CI/CD Pipelines", "FastAPI", "Django"
             ],
             "databases": [
                 "PostgreSQL", "MongoDB", "MySQL",
                 "Vector DBs (ChromaDB, Qdrant)"
             ],
-            "automation": [
+            "tools": [
                 "Selenium", "Web Scraping", "Kafka", "RabbitMQ",
                 "Streamlit", "Grafana", "Postman"
             ]
         }
         
         self.languages = ["Python", "Java", "SQL"]
-        self.current_work = "AI Trainer @ Outlier AI (Remote)"
         
     def achievements(self):
         return {
             "hackathons": "🏆 Top 130 @ Amazon HackOn 2025",
-            "dsa": "💻 200+ problems on LeetCode & GFG",
+            "dsa": "💻 200+ problems on LeetCode & GFG", 
             "impact": "⚡ Reduced HR decision time from 30min → 6min with RAG"
         }
     
     def what_drives_me(self):
         return "Translating cutting-edge AI research into production-ready systems"
+    
+    def call_to_action(self):
+        return "Open to collaborations on AI/ML projects and new opportunities!"
 ```
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-6366F1?style=for-the-badge&labelColor=1e1e2e)](https://manojkp08.github.io/MyPortfolioSite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devdreamerx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e)](https://www.linkedin.com/in/devdreamerx)
 [![GitHub](https://img.shields.io/badge/GitHub-manojkp08-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e)](https://github.com/manojkp08)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](mailto:manojkprdev@gmail.com)
@@ -62,33 +57,6 @@ class ManojKumarPradhan:
 <img src="https://komarev.com/ghpvc/?username=manojkp08&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
 
 </div>
-
----
-
-## 🎯 What Sets Me Apart
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **AI/ML Excellence**
-- ✅ **Production RAG Systems** - Reduced decision time by 80%
-- ✅ **LLM Integration** - Cohere, Gemini, HuggingFace Transformers
-- ✅ **Vector Search** - ChromaDB, Qdrant for semantic retrieval
-- ✅ **AI Training** - Contributing to Generative AI model improvements @ Outlier AI
-
-</td>
-<td width="50%">
-
-### ⚡ **Cloud & Automation**
-- ✅ **AWS & Azure** - Serverless, ML Studio, Docker deployments
-- ✅ **Scalable APIs** - FastAPI serving 200+ users with <20s latency
-- ✅ **Automation Expert** - Selenium bots reducing task time by 90%
-- ✅ **CI/CD Pipelines** - Streamlined deployment workflows
-
-</td>
-</tr>
-</table>
 
 ---
 
