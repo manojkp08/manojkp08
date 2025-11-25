@@ -63,10 +63,6 @@ class ManojKumarPradhan:
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/512/python.png" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
 <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="48" height="48" alt="LangChain" />
 <br><b>LangChain</b>
 </td>
@@ -78,14 +74,7 @@ class ManojKumarPradhan:
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
 <br><b>Transformers</b>
 </td>
-<td align="center" width="96">
-<img src="https://asset.brandfetch.io/idZAy4N76Y/idJq1kENWh.png" width="48" height="48" alt="Cohere" />
-<br><b>Cohere</b>
-</td>
-<td align="center" width="96">
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" />
-<br><b>Gemini</b>
-</td>
+
 </tr>
 </table>
 
@@ -113,9 +102,26 @@ class ManojKumarPradhan:
 <img src="https://img.icons8.com/color/512/django.png" width="48" height="48" alt="Django" />
 <br><b>Django</b>
 </td>
+
 <td align="center" width="96">
-<img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="48" height="48" alt="Flask" />
-<br><b>Flask</b>
+<img src="https://img.icons8.com/color/512/git.png" width="48" height="48" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/512/github.png" width="48" height="48" alt="GitHub" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/dusk/512/postman-api.png" width="48" height="48" alt="Postman" />
+<br><b>Postman</b>
+</td>
+<td align="center" width="96">
+<img src="https://grafana.com/static/img/menu/grafana2.svg" width="48" height="48" alt="Grafana" />
+<br><b>Grafana</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/512/linux.png" width="48" height="48" alt="Linux" />
+<br><b>Linux</b>
 </td>
 </tr>
 </table>
@@ -125,7 +131,7 @@ class ManojKumarPradhan:
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/512/postgresql.png" width="48" height="48" alt="PostgreSQL" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
 <br><b>PostgreSQL</b>
 </td>
 <td align="center" width="96">
@@ -133,7 +139,7 @@ class ManojKumarPradhan:
 <br><b>MongoDB</b>
 </td>
 <td align="center" width="96">
-<img src="https://qdrant.tech/img/logo.svg" width="48" height="48" alt="Qdrant" />
+<img src="https://dt-cdn.net/hub/logos/qdrant.png" width="48" height="48" alt="Qdrant" />
 <br><b>Qdrant</b>
 </td>
 <td align="center" width="96">
@@ -156,28 +162,16 @@ class ManojKumarPradhan:
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="48" height="48" alt="Java" />
+<img src="https://img.icons8.com/color/512/python.png" width="48" height="48" alt="Python" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="48" height="48" alt="Java" />
 <br><b>Java</b>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/512/git.png" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/fluency/512/github.png" width="48" height="48" alt="GitHub" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/dusk/512/postman-api.png" width="48" height="48" alt="Postman" />
-<br><b>Postman</b>
-</td>
-<td align="center" width="96">
-<img src="https://grafana.com/static/img/menu/grafana2.svg" width="48" height="48" alt="Grafana" />
-<br><b>Grafana</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/linux.png" width="48" height="48" alt="Linux" />
-<br><b>Linux</b>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="SQL" />
+<br><b>SQL</b>
 </td>
 </tr>
 </table>
@@ -354,6 +348,8 @@ mindmap
       AI Research
       Open Source
       Technical Leadership
+
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e1f5fe','primaryTextColor':'#000000','primaryBorderColor':'#0288d1','lineColor':'#0288d1','secondaryColor':'#e1f5fe','secondaryTextColor':'#000000','secondaryBorderColor':'#0288d1','tertiaryColor':'#e1f5fe','tertiaryTextColor':'#000000','tertiaryBorderColor':'#0288d1','noteBkgColor':'#e1f5fe','noteTextColor':'#000000','noteBorderColor':'#0277bd'}}}%%
 ```
 
 ---
@@ -367,10 +363,9 @@ mindmap
 ### 🤖 **AI Trainer @ Outlier AI** (Remote)
 **Nov 2024 - Jun 2025**
 
-- 🎯 Training Generative AI models in Computer Science domain
-- 📊 Evaluating 100+ AI code samples weekly for quality & best practices
-- 💻 Contributing Java & Python expertise to improve model performance
-- 🔍 Focus on accuracy, performance optimization, and coding standards
+- Evaluating 100+ AI code samples weekly for quality & best practices
+- Contributing Java & Python expertise to improve model performance
+- Focus on accuracy, performance optimization, and coding standards
 
 </td>
 </tr>
@@ -390,7 +385,9 @@ mindmap
 <b>Oracle Cloud Infrastructure 2025</b>
 <br/>Generative AI Professional
 <br/><br/>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=YOUR_ID">View Certificate →</a>
+<a href="https://drive.google.com/file/d/1xmU_RcEiMK5Ai7ULhNPZqMxuFs6gD39q/view">View Certificate →</a>
+<br/><br/>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C9D43BB925BACD6E521EA3C5E01688AB4A94F1BAA644DBD6624B33FCF8DF38B2">Verify through Oracle Certview →</a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/cloud.png" width="64"/>
@@ -398,7 +395,7 @@ mindmap
 <b>Cloud Computing</b>
 <br/>NPTEL - IIT
 <br/><br/>
-<a href="#">View Certificate →</a>
+<a href="https://drive.google.com/file/d/169c1EeWolW_gk2Cn7-V0zwdS6t3m5963/view">View Certificate →</a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/google-logo.png" width="64"/>
@@ -406,7 +403,7 @@ mindmap
 <b>Computer Networking</b>
 <br/>Google via Coursera
 <br/><br/>
-<a href="#">View Certificate →</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/87XT3TJE7QKJ">View Certificate →</a>
 </td>
 </tr>
 </table>
@@ -427,8 +424,8 @@ mindmap
 <img src="https://img.icons8.com/fluency/96/briefcase.png" width="64"/>
 <br/><br/>
 <b>SDE Roles</b>
-<br/>Full-time positions at MAANG companies
-<br/>Focusing on AI/ML & Backend Engineering
+<br/>Full-time positions 
+<br/>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64"/>
@@ -452,11 +449,7 @@ mindmap
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdreamerx)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkp08)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkprdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://manojkp08.github.io/MyPortfolioSite)
-
-**📞 Phone:** +91 7999696305
 
 </div>
 
