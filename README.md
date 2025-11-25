@@ -344,9 +344,8 @@ mindmap
       Microservices
       API Design
     Career Goals
-      MAANG Companies
-      AI Research
-      Open Source
+      AI Engineer
+      SDE
       Technical Leadership
 
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e1f5fe','primaryTextColor':'#000000','primaryBorderColor':'#0288d1','lineColor':'#0288d1','secondaryColor':'#e1f5fe','secondaryTextColor':'#000000','secondaryBorderColor':'#0288d1','tertiaryColor':'#e1f5fe','tertiaryTextColor':'#000000','tertiaryBorderColor':'#0288d1','noteBkgColor':'#e1f5fe','noteTextColor':'#000000','noteBorderColor':'#0277bd'}}}%%
