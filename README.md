@@ -31,13 +31,6 @@ class ManojKumarPradhan:
         }
         
         self.languages = ["Python", "Java", "SQL"]
-        
-    def achievements(self):
-        return {
-            "hackathons": "🏆 Top 130 @ Amazon HackOn 2025",
-            "dsa": "💻 200+ problems on LeetCode & GFG", 
-            "impact": "⚡ Reduced HR decision time from 30min → 6min with RAG"
-        }
     
     def what_drives_me(self):
         return "Translating cutting-edge AI research into production-ready systems"
@@ -219,96 +212,6 @@ class ManojKumarPradhan:
 <img src="https://komarev.com/ghpvc/?username=manojkp08&color=FF006E&style=flat-square&label=VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/manojkp08?label=Followers&style=flat-square&color=FB5607&logo=github" alt="Followers" />
 <img src="https://img.shields.io/badge/Open%20Source-❤️-FF006E?style=flat-square" alt="Open Source" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 **TalentLens - AI-Powered HR Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=database&logoColor=white)
-
-**RAG system matching job descriptions to assessments**
-
-**Impact:**
-- ⚡ 80% faster decisions (30min → 6min)
-- 🎯 High accuracy with Sentence-Transformers
-- 📈 Scaled to 200+ users (<20s latency)
-
-**Tech:** RAG, Vector Search, FastAPI, Streamlit
-
-[View Project →](https://github.com/manojkp08)
-
-</td>
-<td width="50%">
-
-### 🤖 **SubRedditorX - Reddit Automation Bot**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Intelligent Reddit posting automation system**
-
-**Impact:**
-- 🚀 94% time reduction (5min → 45sec)
-- 📚 Compliant across 50+ communities
-- 🏗️ Modular architecture for rapid features
-
-**Tech:** Selenium, Appium, Gemini AI, MongoDB
-
-[View Project →](https://github.com/manojkp08)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 **NexAI - Automated Market Research**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39A7FF?style=flat-square&logo=ai&logoColor=white)
-
-**Multi-agent AI system for market intelligence**
-
-**Impact:**
-- 📊 15,000+ company insights across 8 industries
-- ⚡ 3× efficiency improvement
-- 🐳 Dockerized for seamless deployment
-
-**Tech:** Cohere API, Web Scraping, Docker, Streamlit
-
-[View Project →](https://github.com/manojkp08)
-
-</td>
-<td width="50%">
-
-### 🏥 **Amazon HackOn 2025 - AI Safety System**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=ai&logoColor=white)
-
-**AI-powered safety monitoring solution**
-
-**Achievement:**
-- 🏆 Top 130 teams across India
-- 🔒 Real-time safety monitoring
-- ☁️ AWS cloud architecture
-
-**Tech:** AWS Services, ML Models, Real-time Processing
-
-[View Details →](https://github.com/manojkp08)
-
-</td>
-</tr>
-</table>
 
 </div>
 
