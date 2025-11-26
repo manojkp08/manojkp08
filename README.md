@@ -180,17 +180,21 @@ class ManojKumarPradhan:
 
 ---
 
-## 📊 GitHub Performance Metrics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojkp08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366F1&icon_color=F59E0B&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=manojkp08&theme=tokyonight&hide_border=true&background=1F222E&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF" alt="GitHub Streak" />
+## 📊 GitHub Performance Metrics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojkp08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366F1&icon_color=F59E0B&text_color=FFFFFF&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=manojkp08&theme=tokyonight&hide_border=true&background=1F222E&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF&stroke=6366F1" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkp08&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366F1&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6366F1&line=F59E0B&point=FFFFFF&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkp08&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366F1&text_color=FFFFFF&layout=compact&langs_count=10&hide=html,css&card_width=445&exclude_repo=outdated-repo1,outdated-repo2" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6366F1&line=F59E0B&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph&height=300&radius=8" alt="Activity Graph" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=manojkp08&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" alt="GitHub Trophies" />
 
 </div>
 
