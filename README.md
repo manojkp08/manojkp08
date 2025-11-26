@@ -182,58 +182,45 @@ class ManojKumarPradhan:
 
 <div align="center">
 
-## 📊 GitHub Performance Metrics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojkp08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366F1&icon_color=F59E0B&text_color=FFFFFF&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=manojkp08&theme=tokyonight&hide_border=true&background=1F222E&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF&stroke=6366F1" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkp08&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366F1&text_color=FFFFFF&layout=compact&langs_count=10&hide=html,css&card_width=445&exclude_repo=outdated-repo1,outdated-repo2" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6366F1&line=F59E0B&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph&height=300&radius=8" alt="Activity Graph" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=manojkp08&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manojkp08&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/manojkp08)
-
-</div>
-
-<br/>
+## 📊 GitHub Performance Metrics
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="48" height="48"/>
-<br/><b>Top 130</b>
-<br/>Amazon HackOn 2025
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojkp08&theme=radical" alt="Repos per Language" width="85%" />
 </td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/medal.png" width="48" height="48"/>
-<br/><b>Top 100</b>
-<br/>Deloitte Hacksplosion
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="48" height="48"/>
-<br/><b>200+ Problems</b>
-<br/>LeetCode & GFG
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/certificate.png" width="48" height="48"/>
-<br/><b>OCI Certified</b>
-<br/>Gen AI Professional
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojkp08&theme=radical" alt="Most Commit Language" width="85%" />
 </td>
 </tr>
 </table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkp08&theme=radical" alt="Contribution Timeline" width="85%" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojkp08&theme=radical&utcOffset=5.5" alt="Productive Time" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojkp08&theme=radical" alt="Stats Summary" width="85%" />
+</td>
+</tr>
+</table>
+
+## 🏆 Achievements & Highlights
+
+<img src="https://github-profile-trophy.vercel.app/?username=manojkp08&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=10" alt="Achievements" width="60%" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=manojkp08&color=FF006E&style=flat-square&label=VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/manojkp08?label=Followers&style=flat-square&color=FB5607&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/Open%20Source-❤️-FF006E?style=flat-square" alt="Open Source" />
+
+</div>
 
 ---
 
