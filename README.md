@@ -256,11 +256,11 @@ mindmap
       RAG Systems
       LLM Fine-tuning
       Vector Databases
-      Prompt Engineering
     Cloud Architecture
       AWS Services
       Azure ML Studio
-      Docker & CI/CD
+      Docker
+      CI/CD
       Serverless Computing
     Backend Development
       FastAPI
@@ -272,7 +272,20 @@ mindmap
       SDE
       Technical Leadership
 
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e1f5fe','primaryTextColor':'#000000','primaryBorderColor':'#0288d1','lineColor':'#0288d1','secondaryColor':'#e1f5fe','secondaryTextColor':'#000000','secondaryBorderColor':'#0288d1','tertiaryColor':'#e1f5fe','tertiaryTextColor':'#000000','tertiaryBorderColor':'#0288d1','noteBkgColor':'#e1f5fe','noteTextColor':'#000000','noteBorderColor':'#0277bd'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 
+  'primaryColor': '#D7DAE5',
+  'primaryTextColor': '#2C3E50',
+  'primaryBorderColor': '#8EAF9D',
+  'lineColor': '#A6D8D4',
+  'secondaryColor': '#B9CDDA',
+  'secondaryTextColor': '#2C3E50',
+  'secondaryBorderColor': '#8EAF9D',
+  'tertiaryColor': '#A6D8D4',
+  'tertiaryTextColor': '#2C3E50',
+  'tertiaryBorderColor': '#8EAF9D',
+  'nodeBorder': '#8EAF9D',
+  'nodeTextColor': '#2C3E50'
+}}}%%
 ```
 
 </div>
