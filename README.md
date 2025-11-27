@@ -233,7 +233,7 @@ class ManojKumarPradhan:
 
 ### 🏆 Achievements & Highlights
 
-<img src="https://github-profile-trophy.vercel.app/?username=manojkp08&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=10" alt="Achievements" width="60%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=manojkp08&no-frame=true&theme=onestar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 <br/>
