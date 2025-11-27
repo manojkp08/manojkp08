@@ -235,12 +235,6 @@ class ManojKumarPradhan:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manojkp08&no-frame=true&theme=onestar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=manojkp08&color=FF006E&style=flat-square&label=VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/manojkp08?label=Followers&style=flat-square&color=FB5607&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/Open%20Source-❤️-FF006E?style=flat-square" alt="Open Source" />
 
 </div>
 
