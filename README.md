@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🚀 Manoj Kumar Pradhan | AI Engineer & Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Cloud+%26+Backend+Automation;Turning+AI+Research+into+Production+%F0%9F%A4%96" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
@@ -43,141 +47,159 @@ class ManojKumarPradhan:
 
 <img src="https://komarev.com/ghpvc/?username=manojkp08&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
 
-</div>
+<br/>
+<br/>
 
 ---
 
-## 🛠️ Technology Arsenal
+<br/>
 
 <div align="center">
 
-### **AI/ML & Data Science**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="48" height="48" alt="LangChain" />
-<br><b>LangChain</b>
-</td>
-<td align="center" width="96">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" />
-<br><b>HuggingFace</b>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
-<br><b>Transformers</b>
-</td>
-
-</tr>
-</table>
-
-### **Backend & Cloud Infrastructure**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/amazon-web-services.png" width="48" height="48" alt="AWS" />
-<br><b>AWS</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/fluency/512/azure-1.png" width="48" height="48" alt="Azure" />
-<br><b>Azure</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/docker.png" width="48" height="48" alt="Docker" />
-<br><b>Docker</b>
-</td>
-<td align="center" width="96">
-<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" />
-<br><b>FastAPI</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/django.png" width="48" height="48" alt="Django" />
-<br><b>Django</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/git.png" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/fluency/512/github.png" width="48" height="48" alt="GitHub" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/dusk/512/postman-api.png" width="48" height="48" alt="Postman" />
-<br><b>Postman</b>
-</td>
-<td align="center" width="96">
-<img src="https://grafana.com/static/img/menu/grafana2.svg" width="48" height="48" alt="Grafana" />
-<br><b>Grafana</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/linux.png" width="48" height="48" alt="Linux" />
-<br><b>Linux</b>
-</td>
-</tr>
-</table>
-
-### **Databases & Automation**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="96">
-<img src="https://dt-cdn.net/hub/logos/qdrant.png" width="48" height="48" alt="Qdrant" />
-<br><b>Qdrant</b>
-</td>
-<td align="center" width="96">
-<img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="48" height="48" alt="Selenium" />
-<br><b>Selenium</b>
-</td>
-<td align="center" width="96">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
-<br><b>Streamlit</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
-<br><b>Kafka</b>
-</td>
-</tr>
-</table>
-
-### **Languages & Tools**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/python.png" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="48" height="48" alt="Java" />
-<br><b>Java</b>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="SQL" />
-<br><b>SQL</b>
-</td>
-</tr>
-</table>
+# 🚀 Technology Arsenal
 
 </div>
 
+<div align="center">
+
+### 🤖 AI/ML & Data Science
+
+<p>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="60" height="60" alt="LangChain" title="LangChain - Build LLM Applications"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" height="60" alt="HuggingFace" title="HuggingFace - The AI Community"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" height="60" alt="TensorFlow" title="TensorFlow & Transformers"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ☁️ Backend & Cloud Infrastructure
+
+<p>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="60" height="60" alt="AWS" title="Amazon Web Services"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/512/azure-1.png" width="60" height="60" alt="Azure" title="Microsoft Azure"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/512/docker.png" width="60" height="60" alt="Docker" title="Docker - Containerization"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="60" height="60" alt="FastAPI" title="FastAPI - Modern Web Framework"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.icons8.com/color/512/django.png" width="60" height="60" alt="Django" title="Django - Web Framework"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/512/git.png" width="60" height="60" alt="Git" title="Git - Version Control"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/512/github.png" width="60" height="60" alt="GitHub" title="GitHub - Collaboration Platform"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.icons8.com/dusk/512/postman-api.png" width="60" height="60" alt="Postman" title="Postman - API Testing"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://grafana.com/static/img/menu/grafana2.svg" width="60" height="60" alt="Grafana" title="Grafana - Monitoring & Observability"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/512/linux.png" width="60" height="60" alt="Linux" title="Linux - Operating System"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💾 Databases & Automation
+
+<p>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="60" height="60" alt="PostgreSQL" title="PostgreSQL - Relational Database"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/512/mongodb.png" width="60" height="60" alt="MongoDB" title="MongoDB - NoSQL Database"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://qdrant.tech/" target="_blank">
+    <img src="https://dt-cdn.net/hub/logos/qdrant.png" width="60" height="60" alt="Qdrant" title="Qdrant - Vector Database"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="60" height="60" alt="Selenium" title="Selenium - Browser Automation"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60" height="60" alt="Streamlit" title="Streamlit - Data Apps"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="60" height="60" alt="Kafka" title="Apache Kafka - Event Streaming"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Core Languages
+
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/512/python.png" width="60" height="60" alt="Python" title="Python - Primary Language"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="60" height="60" alt="Java" title="Java - Enterprise Development"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60" alt="SQL" title="SQL - Database Queries"/>
+  </a>
+</p>
+
+<sub>💡 Click on any icon to explore the technology!</sub>
+
+</div>
+
+<br/>
+<br/>
+
 ---
 
-<div align="center">
+<br/>
 
 <div align="center">
 
-## 📊 GitHub Performance Metrics
+# 📊 GitHub Performance Metrics
 
 <table>
 <tr>
@@ -203,10 +225,17 @@ class ManojKumarPradhan:
 </tr>
 </table>
 
-## 🏆 Achievements & Highlights
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Achievements & Highlights
 
 <img src="https://github-profile-trophy.vercel.app/?username=manojkp08&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=10" alt="Achievements" width="60%" />
 
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=manojkp08&color=FF006E&style=flat-square&label=VIEWS" alt="Profile Views" />
@@ -215,9 +244,16 @@ class ManojKumarPradhan:
 
 </div>
 
+<br/>
+<br/>
+
 ---
 
+<br/>
+
 ## 🎯 Current Focus
+
+<div align="center">
 
 ```mermaid
 mindmap
@@ -245,9 +281,18 @@ mindmap
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e1f5fe','primaryTextColor':'#000000','primaryBorderColor':'#0288d1','lineColor':'#0288d1','secondaryColor':'#e1f5fe','secondaryTextColor':'#000000','secondaryBorderColor':'#0288d1','tertiaryColor':'#e1f5fe','tertiaryTextColor':'#000000','tertiaryBorderColor':'#0288d1','noteBkgColor':'#e1f5fe','noteTextColor':'#000000','noteBorderColor':'#0277bd'}}}%%
 ```
 
+</div>
+
+<br/>
+<br/>
+
 ---
 
+<br/>
+
 ## 💼 Professional Experience
+
+<div align="center">
 
 <table>
 <tr>
@@ -264,7 +309,14 @@ mindmap
 </tr>
 </table>
 
+</div>
+
+<br/>
+<br/>
+
 ---
+
+<br/>
 
 ## 📜 Certifications
 
@@ -303,7 +355,12 @@ mindmap
 
 </div>
 
+<br/>
+<br/>
+
 ---
+
+<br/>
 
 ## 💼 Open to Opportunities
 
@@ -346,17 +403,14 @@ mindmap
 
 </div>
 
+<br/>
+<br/>
+
 ---
 
-## 📈 Development Activity
+<br/>
 
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkp08&theme=tokyonight)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -366,7 +420,14 @@ mindmap
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
 </picture>
 
+</div>
+
+<br/>
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
@@ -374,7 +435,11 @@ mindmap
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
----
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 🌟 Key Metrics
 
@@ -395,7 +460,16 @@ mindmap
 </tr>
 </table>
 
+</div>
+
+<br/>
+<br/>
+
 ---
+
+<br/>
+
+<div align="center">
 
 **✨ "The best way to predict the future is to build it." - Alan Kay**
 
