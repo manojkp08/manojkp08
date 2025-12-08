@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Manoj Kumar Pradhan | AI Engineer & Full-Stack Developer
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Manoj%20Here!)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Cloud+%26+Backend+Automation;Turning+AI+Research+into+Production+%F0%9F%A4%96" alt="Typing SVG" />
 
@@ -44,16 +44,21 @@ class ManojKumarPradhan:
 ```
 
 <br/>
+<div align="center">
+    
+#### Joke 😂
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+</div>
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
----
 
 <br/>
 
 <div align="center">
 
-# 🚀 Technology Arsenal
+# 🚀 Tech Stack
 
 </div>
 
@@ -440,19 +445,14 @@ mindmap
 
 ### 💭 Developer Wisdom
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 </div>
 
 <br/>
 
----
-
-<br/>
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
