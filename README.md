@@ -45,10 +45,7 @@ class ManojKumarPradhan:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manojkp08&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
-
-<br/>
-<br/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
 ---
 
@@ -186,9 +183,10 @@ class ManojKumarPradhan:
   </a>
 </p>
 
-<sub>💡 Click on any icon to explore the technology!</sub>
-
 </div>
+
+> [!NOTE]
+> 💡 Click on any icon to explore the technology!</sub>
 
 <br/>
 <br/>
@@ -224,6 +222,8 @@ class ManojKumarPradhan:
 </td>
 </tr>
 </table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -446,39 +446,13 @@ mindmap
 
 <br/>
 
-<div align="center">
-
-### 🌟 Key Metrics
-
-<table>
-<tr>
-<td align="center">
-<b>200+</b><br/>DSA Problems Solved
-</td>
-<td align="center">
-<b>80%</b><br/>Efficiency Improvement
-</td>
-<td align="center">
-<b>15K+</b><br/>Data Points Collected
-</td>
-<td align="center">
-<b>Top 130</b><br/>Amazon HackOn 2025
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-<br/>
-
 ---
 
 <br/>
 
 <div align="center">
 
-**✨ "The best way to predict the future is to build it." - Alan Kay**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
@@ -487,3 +461,5 @@ mindmap
 **Made with ❤️ by Manoj**
 
 </div>
+
+<br>
