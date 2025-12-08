@@ -1,6 +1,6 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Manoj%20Here!)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Manoj%20Here!&height=200&fontSize=70)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Cloud+%26+Backend+Automation;Turning+AI+Research+into+Production+%F0%9F%A4%96" alt="Typing SVG" />
 
