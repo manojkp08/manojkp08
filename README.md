@@ -11,7 +11,7 @@
 ```python
 class ManojKumarPradhan:
     def __init__(self):
-        self.location = "🇮🇳 Bhopal, India"
+        self.location = "India"
         self.education = "Vellore Institute of Technology | CSE | CGPA: 8.33"
         self.role = "Bug Slayer & Chai Lover ☕"
         self.mission = "Building intelligent systems that bridge AI research and real-world impact"
