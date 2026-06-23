@@ -1,8 +1,16 @@
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Manoj%20Here!&height=200&fontSize=70)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Manoj%20Here!&height=200&fontSize=70&animation=fadeIn" alt="header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Cloud+%26+Backend+Automation;Turning+AI+Research+into+Production+%F0%9F%A4%96" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=manojkp08&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/manojkp08?tab=followers">
+    <img src="https://img.shields.io/github/followers/manojkp08?label=Followers&style=for-the-badge&color=6366F1&logo=github&logoColor=white" alt="Followers" />
+  </a>
+</p>
 
 </div>
 
@@ -44,161 +52,81 @@ class ManojKumarPradhan:
 ```
 
 <br/>
+
 <div align="center">
-    
+
 #### Joke 😂
 
-</div>
-<div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
 
+</div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 <div align="center">
 
 # 🚀 Tech Stack
 
-</div>
-
-<div align="center">
-
 ### 🤖 AI/ML & Data Science
 
 <p>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="60" height="60" alt="LangChain" title="LangChain - Build LLM Applications"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" height="60" alt="HuggingFace" title="HuggingFace - The AI Community"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" height="60" alt="TensorFlow" title="TensorFlow & Transformers"/>
-  </a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
 </p>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ### ☁️ Backend & Cloud Infrastructure
 
 <p>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="60" height="60" alt="AWS" title="Amazon Web Services"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/512/azure-1.png" width="60" height="60" alt="Azure" title="Microsoft Azure"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/docker.png" width="60" height="60" alt="Docker" title="Docker - Containerization"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="60" height="60" alt="FastAPI" title="FastAPI - Modern Web Framework"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/django.png" width="60" height="60" alt="Django" title="Django - Web Framework"/>
-  </a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
 </p>
-
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/git.png" width="60" height="60" alt="Git" title="Git - Version Control"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/512/github.png" width="60" height="60" alt="GitHub" title="GitHub - Collaboration Platform"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/dusk/512/postman-api.png" width="60" height="60" alt="Postman" title="Postman - API Testing"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://grafana.com/static/img/menu/grafana2.svg" width="60" height="60" alt="Grafana" title="Grafana - Monitoring & Observability"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/512/linux.png" width="60" height="60" alt="Linux" title="Linux - Operating System"/>
-  </a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </p>
-
-</div>
 
 <br/>
-
-<div align="center">
 
 ### 💾 Databases & Automation
 
 <p>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="60" height="60" alt="PostgreSQL" title="PostgreSQL - Relational Database"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/mongodb.png" width="60" height="60" alt="MongoDB" title="MongoDB - NoSQL Database"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://qdrant.tech/" target="_blank">
-    <img src="https://dt-cdn.net/hub/logos/qdrant.png" width="60" height="60" alt="Qdrant" title="Qdrant - Vector Database"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="60" height="60" alt="Selenium" title="Selenium - Browser Automation"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60" height="60" alt="Streamlit" title="Streamlit - Data Apps"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="60" height="60" alt="Kafka" title="Apache Kafka - Event Streaming"/>
-  </a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" /></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
 </p>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ### 💻 Core Languages
 
 <p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/512/python.png" width="60" height="60" alt="Python" title="Python - Primary Language"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="60" height="60" alt="Java" title="Java - Enterprise Development"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60" alt="SQL" title="SQL - Database Queries"/>
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 </p>
 
 </div>
 
 > [!NOTE]
-> 💡 Click on any icon to explore the technology!</sub>
+> 💡 Click on any icon to explore the technology!
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 <div align="center">
 
@@ -228,27 +156,17 @@ class ManojKumarPradhan:
 </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-<br/>
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 ### 🏆 Achievements & Highlights
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manojkp08&no-frame=true&theme=onestar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 </div>
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 🎯 Current Focus
 
@@ -296,11 +214,8 @@ mindmap
 </div>
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 💼 Professional Experience
 
@@ -324,11 +239,8 @@ mindmap
 </div>
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 📜 Certifications
 
@@ -368,11 +280,8 @@ mindmap
 </div>
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 💼 Open to Opportunities
 
@@ -416,11 +325,8 @@ mindmap
 </div>
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 <div align="center">
 
@@ -435,11 +341,8 @@ mindmap
 </div>
 
 <br/>
-<br/>
 
----
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 <div align="center">
 
@@ -447,19 +350,10 @@ mindmap
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
-</div>
-
 <br/>
 
-
-<div align="center">
-
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" width="100%" />
 
 **Made with ❤️ by Manoj**
 
 </div>
-
-<br>
